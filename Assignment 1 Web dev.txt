@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expense Tracker Application</title>
+  </head>
+  <body>
+    <header>Expense Tracker</header>
+    <img src="windows.jpg" alt="Image of windows" />
+    <h1>Welcome</h1>
+    <p>
+      Expense tracker application interface. Where all your expenses are seen in
+      one place.
+    </p>
+    <p>Register here</p>
+    <form action="/registration">
+      <input type="text" />
+    </form>
+    <table>
+      <tr>
+        <thead>
+          <th>name</th>
+          <th>email</th>
+          <th>phone number</th>
+        </thead>
+      </tr>
+      <a href="https://google.com">Google</a>
+    </table>
+  </body>
+</html>
